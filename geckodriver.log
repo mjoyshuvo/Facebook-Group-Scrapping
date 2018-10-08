@@ -1,0 +1,1125 @@
+1538713195276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.F7UBDasz9W9z"
+1538713198513	Marionette	INFO	Listening on port 56793
+1538713198614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538713198700	Marionette	DEBUG	[6442450945] Frame script loaded
+1538713198723	Marionette	DEBUG	[6442450945] Frame script registered
+1538713198784	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538713200891	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538713201783	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://github.com/mjoyshuvo
+1538713203191	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://github.com/mjoyshuvo
+[Parent 2388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+te" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.wWsdLVKOZGto"
+1538713374887	Marionette	INFO	Listening on port 56855
+1538713375341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538713375385	Marionette	DEBUG	[6442450945] Frame script loaded
+1538713375388	Marionette	DEBUG	[6442450945] Frame script registered
+1538713375411	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538713376113	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538713377139	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538713379470	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1538713380223	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1538713380275	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+1538713400718	Marionette	INFO	Stopped listening on port 56855
+[Child 13568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 11864, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538713519732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.a1hcuvAfI66I"
+1538713525434	Marionette	INFO	Listening on port 56942
+1538713525565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538713525619	Marionette	DEBUG	[6442450945] Frame script loaded
+1538713525622	Marionette	DEBUG	[6442450945] Frame script registered
+1538713525646	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538713526321	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538713527451	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538713529801	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1538713530555	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+1538713550922	Marionette	INFO	Stopped listening on port 56942
+[Child 12244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12244, Chrome_Chil[Parent 1100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5996, Chrome_1538713591080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.E3bAdhC9L7Kj"
+1538713594518	Marionette	INFO	Listening on port 56997
+1538713594935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538713594977	Marionette	DEBUG	[6442450945] Frame script loaded
+1538713594987	Marionette	DEBUG	[6442450945] Frame script registered
+1538713595009	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538713595696	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538713596900	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538713599257	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1538713599943	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1538713599998	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 421538713604751	Marionette	INFO	Stopped listening on port 56997
+[GPU 14104, Chr[Parent 5552, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1538730952690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.ag5fmcpMNfOk"
+1538730957534	Marionette	INFO	Listening on port 51639
+1538730957636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538730957682	Marionette	DEBUG	[6442450945] Frame script loaded
+1538730957686	Marionette	DEBUG	[6442450945] Frame script registered
+1538730957709	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538730958361	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538730959591	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538730963421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1538730964179	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1538730964232	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+1538730984706	Marionette	INFO	Stopped listening on port 51639
+[Parent 13084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 13084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3204, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538731042943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.4IqSENN7rbzr"
+1538731046459	Marionette	INFO	Listening on port 51695
+1538731046784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538731046828	Marionette	DEBUG	[6442450945] Frame script loaded
+1538731046831	Marionette	DEBUG	[6442450945] Frame script registered
+1538731046855	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538731047587	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538731048270	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538731050861	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1538731051755	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+1538731072242	Marionette	INFO	Stopped listening on port 51695
+[Parent 9884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 9884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1538731413238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.XCdDetzT72FO"
+1538731416172	Marionette	INFO	Listening on port 51782
+1538731416512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538731416580	Marionette	DEBUG	[2147483649] Frame script loaded
+1538731416654	Marionette	DEBUG	[2147483649] Frame script registered
+1538731416994	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538731417584	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538731420280	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538731428511	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538731448882	Marionette	INFO	Stopped listening on port 51782
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538731567522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.xsCz0rPKPo0d"
+1538731570938	Marionette	INFO	Listening on port 51846
+1538731571379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538731571432	Marionette	DEBUG	[2147483649] Frame script loaded
+1538731571435	Marionette	DEBUG	[2147483649] Frame script registered
+1538731571614	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538731572202	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538731573664	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538731582944	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538731633180	Marionette	INFO	Stopped listening on port 51846
+[Child 8660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [Child 5644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5644, IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538731699121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.pIIxvWYx6vL6"
+1538731702658	Marionette	INFO	Listening on port 51903
+1538731703097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538731703161	Marionette	DEBUG	[2147483649] Frame script loaded
+1538731703176	Marionette	DEBUG	[2147483649] Frame script registered
+1538731703544	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538731704051	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538731705675	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538731717376	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+1538731917816	Marionette	INFO	Stopped listening on port 51903
+[Child 12604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Child 12296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12296, Chrome_ChildJavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2944, Chrome_ChildT[GPU 7056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538731972250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.DhMIyHWgKZwp"
+1538731975171	Marionette	INFO	Listening on port 51984
+1538731975612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538731975695	Marionette	DEBUG	[2147483649] Frame script loaded
+1538731975731	Marionette	DEBUG	[2147483649] Frame script registered
+1538731976103	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538731976582	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538731978016	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538731987534	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538732064380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.Uf2VcwvqO8Gq"
+1538732067172	Marionette	INFO	Listening on port 52044
+1538732067651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538732067714	Marionette	DEBUG	[2147483649] Frame script loaded
+1538732067801	Marionette	DEBUG	[2147483649] Frame script registered
+1538732068059	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538732068536	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538732071575	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538732080376	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538732280547	Marionette	INFO	Stopped listening on port 52044
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+[Parent 6792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buiHandler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+ld/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Child 4988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buiJavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538732599505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.p8lwfdTyGu80"
+1538732602475	Marionette	INFO	Listening on port 52322
+1538732602815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538732602875	Marionette	DEBUG	[2147483649] Frame script loaded
+1538732602930	Marionette	DEBUG	[2147483649] Frame script registered
+1538732603228	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538732603807	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538732606603	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538732614669	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+[Child 10648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChildIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538732644026	Marionette	INFO	Stopped listening on port 52322
+[GPU 10420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538810398372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.ELESVd3ge7Z7"
+1538810401539	Marionette	INFO	Listening on port 55991
+1538810401666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538810401744	Marionette	DEBUG	[2147483649] Frame script loaded
+1538810401766	Marionette	DEBUG	[2147483649] Frame script registered
+1538810402032	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538810402714	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538810404874	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538810414272	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+[Parent 13952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co[Parent 13952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1144, Chrome_ChildThread] WARNIIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8752, Chrome_ChildThread] WARNING: pipe erro[Parent 820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10132, Chrome_ChiIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538811163204	Marionette	INFO	Stopped listening on port 56114
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538811206335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.ATxW4jlX0TEV"
+1538811209363	Marionette	INFO	Listening on port 56260
+1538811209592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538811209644	Marionette	DEBUG	[2147483649] Frame script loaded
+1538811209647	Marionette	DEBUG	[2147483649] Frame script registered
+1538811210045	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538811210858	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538811212396	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/eee.cse/
+1538811222157	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+[Parent 13044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 13044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11244, Chrome_ChildTh1538817209606	Marionette	INFO	Stopped listening on port 56260
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eference, not by using the level setter
+1538811387124	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/eee.cse/
+[Parent 4880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom[Parent 4880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538817210770	Marionette	INFO	Stopped listening on port 56358
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538838435504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.5uY7EE0WXqic"
+1538838438929	Marionette	INFO	Listening on port 58208
+1538838439630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538838439702	Marionette	DEBUG	[2147483649] Frame script loaded
+1538838439730	Marionette	DEBUG	[2147483649] Frame script registered
+1538838440049	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538838440472	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538838462392	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+1538838466390	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+1538838680090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.UxbvHZN9RVWW"
+1538838683702	Marionette	INFO	Listening on port 58334
+1538838683968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538838684028	Marionette	DEBUG	[2147483649] Frame script loaded
+1538838684032	Marionette	DEBUG	[2147483649] Frame script registered
+1538838684308	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538838684946	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538838708698	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+1538838711887	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+1538838912290	Marionette	INFO	Stopped listening on port 58334
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Child 10360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538839036593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.DcE0vefSjItc"
+1538839039525	Marionette	INFO	Listening on port 58424
+1538839039912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538839039973	Marionette	DEBUG	[2147483649] Frame script loaded
+1538839040032	Marionette	DEBUG	[2147483649] Frame script registered
+1538839040526	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538839041007	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538839068484	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+1538839071799	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+console.error: "Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter27"
+[Child 14600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14600, ChroHandler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538840176600	Marionette	INFO	Stopped listening on port 58424
+[GPU 8980, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538840219723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.YBtzRqjR5GLP"
+1538840222558	Marionette	INFO	Listening on port 58564
+1538840223018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538840223073	Marionette	DEBUG	[2147483649] Frame script loaded
+1538840223081	Marionette	DEBUG	[2147483649] Frame script registered
+1538840223362	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538840223904	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538840227048	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538840237337	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 6864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9[Parent 6864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538840868457	Marionette	INFO	Stopped listening on port 58564
+[GPU 9236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538840921398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.0UhjvQsz56QJ"
+1538840924476	Marionette	INFO	Listening on port 58667
+1538840924730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538840924793	Marionette	DEBUG	[2147483649] Frame script loaded
+1538840924796	Marionette	DEBUG	[2147483649] Frame script registered
+1538840925106	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538840925771	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538840954982	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+1538840958343	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Child 14328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc[Child 6508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538841246626	Marionette	INFO	Stopped listening on port 58667
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538841185344	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538841187953	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+1538841198824	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 8228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538841247325	Marionette	INFO	Stopped listening on port 58739
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538841361278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.IpXHNdokgsvn"
+1538841363581	Marionette	INFO	Listening on port 58811
+1538841364010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538841364073	Marionette	DEBUG	[2147483649] Frame script loaded
+1538841364088	Marionette	DEBUG	[2147483649] Frame script registered
+1538841364440	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538841364945	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538841368017	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+1538841376809	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15[Child 2584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538845139790	Marionette	INFO	Stopped listening on port 58811
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538843072464	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 15304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538845142639	Marionette	INFO	Stopped listening on port 59005
+[GPU 1780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538845196691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.ivtItIgqwgUa"
+1538845200964	Marionette	INFO	Listening on port 59226
+1538845201250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538845201351	Marionette	DEBUG	[2147483649] Frame script loaded
+1538845201390	Marionette	DEBUG	[2147483649] Frame script registered
+1538845201846	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538845202944	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538845206364	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538845225279	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 5976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chromeIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538845327034	Marionette	INFO	Stopped listening on port 59226
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538845389868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.7fCdz7XK1KHH"
+1538845393203	Marionette	INFO	Listening on port 59312
+1538845393242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538845393322	Marionette	DEBUG	[2147483649] Frame script loaded
+1538845393334	Marionette	DEBUG	[2147483649] Frame script registered
+1538845393753	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538845394511	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538845397097	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538845409886	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Child 1572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, li[Child 4604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46[Parent 12524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538845632909	Marionette	INFO	Stopped listening on port 59312
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538845687930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.EcSzl6PZBlvg"
+1538845691286	Marionette	INFO	Listening on port 59396
+1538845691334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538845691486	Marionette	DEBUG	[2147483649] Frame script loaded
+1538845691509	Marionette	DEBUG	[2147483649] Frame script registered
+1538845691941	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538845692724	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538845696989	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538845708135	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 14060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7068,1538847991156	Marionette	INFO	Stopped listening on port 59396
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538848043212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.g61XO9FYs0TD"
+1538848046693	Marionette	INFO	Listening on port 59733
+1538848047205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538848047258	Marionette	DEBUG	[2147483649] Frame script loaded
+1538848047271	Marionette	DEBUG	[2147483649] Frame script registered
+1538848047634	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538848048065	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538848051228	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538848061612	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 14312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 14312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3[Child 11840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChiIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6168, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 109: file z:/build/bu
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6168, Chrome_ChildThread] WARNING: pipe error: 109: file 1538848592541	Marionette	INFO	Stopped listening on port 598[Parent 8680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1268, Chrome_C[Parent 8680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14656, Chrome_ChildThread] WARNING: pipe error: 109: filIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538848593456	Marionette	INFO	Stopped listening on port 59918
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538848768622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.PnzFRmlbCDQd"
+1538848772031	Marionette	INFO	Listening on port 60025
+1538848772624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538848772684	Marionette	DEBUG	[2147483649] Frame script loaded
+1538848772697	Marionette	DEBUG	[2147483649] Frame script registered
+1538848773012	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538848773452	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538848776043	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538848790225	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 5132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1280IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538849382374	Marionette	INFO	Stopped listening on port 60025
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538849852566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.eGiRw1nvtn9a"
+1538849855665	Marionette	INFO	Listening on port 60309
+1538849855839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538849855905	Marionette	DEBUG	[2147483649] Frame script loaded
+1538849855912	Marionette	DEBUG	[2147483649] Frame script registered
+1538849856201	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538849856811	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538849859452	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538849868958	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 13284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538850001248	Marionette	INFO	Stopped listening on port 60309
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538850290563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.Qo3jOSWMZpIA"
+1538850293568	Marionette	INFO	Listening on port 60392
+1538850293847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538850293910	Marionette	DEBUG	[2147483649] Frame script loaded
+1538850294005	Marionette	DEBUG	[2147483649] Frame script registered
+1538850294639	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538850295299	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538850297941	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1538850307970	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 2020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 14400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538850640096	Marionette	INFO	Stopped listening on port 60392
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539021476841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.pDrLoZLKvNZY"
+1539021484884	Marionette	INFO	Listening on port 55761
+1539021484944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539021485017	Marionette	DEBUG	[2147483649] Frame script loaded
+1539021485025	Marionette	DEBUG	[2147483649] Frame script registered
+1539021485222	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539021486079	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539021493976	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539021507888	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 2728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[[Child 12572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+hrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 12572, Chrome1539021764020	Marionette	INFO	Stopped listening on port 55761
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+[Parent 6948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Parent 6948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539021765425	Marionette	INFO	Stopped listening on port 55993
+[GPU 12488, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539021884986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.8hQhvR4kyba2"
+1539021888623	Marionette	INFO	Listening on port 56348
+1539021888841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539021888907	Marionette	DEBUG	[2147483649] Frame script loaded
+1539021888935	Marionette	DEBUG	[2147483649] Frame script registered
+1539021889154	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539021889725	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539021895976	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539021906929	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 10512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539022105113	Marionette	INFO	Stopped listening on port 56348
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DEBUG	[2147483649] Frame script loaded
+1539022053224	Marionette	DEBUG	[2147483649] Frame script registered
+1539022053577	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539022054403	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539022062170	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539022076127	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1539022106317	Marionette	INFO	Stopped listening on port 56617
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539022220022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.CLHBQKEaF6LL"
+1539022223775	Marionette	INFO	Listening on port 56872
+1539022223891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539022223978	Marionette	DEBUG	[2147483649] Frame script loaded
+1539022224031	Marionette	DEBUG	[2147483649] Frame script registered
+1539022224400	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539022225268	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539022231839	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539022244101	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Child 9344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 93441539022496290	Marionette	INFO	Stopped listening on port 56872
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539022565968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.qY8GtZvdsDoc"
+1539022569693	Marionette	INFO	Listening on port 57339
+1539022569842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539022569921	Marionette	DEBUG	[2147483649] Frame script loaded
+1539022569931	Marionette	DEBUG	[2147483649] Frame script registered
+1539022570368	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539022571128	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539022577445	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539022589874	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 10412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539022676237	Marionette	INFO	Stopped listening on port 57339
+[GPU 9756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539022744234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.zhFEb1gdFgSW"
+1539022748031	Marionette	INFO	Listening on port 57591
+1539022748108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539022748189	Marionette	DEBUG	[2147483649] Frame script loaded
+1539022748216	Marionette	DEBUG	[2147483649] Frame script registered
+1539022748676	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539022749743	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539022758206	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539022769636	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539023078080	Marionette	INFO	Stopped listening on port 57591
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1539022972520	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539022985039	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Child 11396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11396, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 9684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539023079051	Marionette	INFO	Stopped listening on port 57883
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539023614291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.I5XhcagWTviy"
+1539023619063	Marionette	INFO	Listening on port 58667
+1539023619289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539023619355	Marionette	DEBUG	[2147483649] Frame script loaded
+1539023619381	Marionette	DEBUG	[2147483649] Frame script registered
+1539023619836	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539023620315	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539023627954	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539023637864	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 9900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539024020098	Marionette	INFO	Stopped listening on port 58667
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	DEBUG	[2147483649] Frame script loaded
+1539023750359	Marionette	DEBUG	[2147483649] Frame script registered
+1539023750741	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539023751489	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539023757163	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539023768737	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Child 11956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 10188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539024021141	Marionette	INFO	Stopped listening on port 58871
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539024433591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.z8b9TpVXFHcI"
+1539024437561	Marionette	INFO	Listening on port 59713
+1539024438072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539024438126	Marionette	DEBUG	[2147483649] Frame script loaded
+1539024438130	Marionette	DEBUG	[2147483649] Frame script registered
+1539024438513	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539024439250	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539024446391	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539024457308	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 7592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5536, Chrome_ChildThread] WARNING: pipe error: 109: fil[Child 6156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539024782825	Marionette	INFO	Stopped l[Parent 10628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856[Parent 10628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539024783766	Marionette	INFO	Stopped listening on port 60019
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539026885144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.MIFNTVuuZkAi"
+1539026888937	Marionette	INFO	Listening on port 62612
+1539026889026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539026889099	Marionette	DEBUG	[2147483649] Frame script loaded
+1539026889114	Marionette	DEBUG	[2147483649] Frame script registered
+1539026889452	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539026890131	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539026893759	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539026902883	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 4888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip[Parent 4888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539027298533	Marionette	INFO	Stopped listening on port 62612
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vices.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539027116964	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 7896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7[Parent 7896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chr1539027299307	Marionette	INFO	Stopped listening on port 62908
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ing: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539027234631	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 9500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539027300185	Marionette	INFO	Stopped listening on port 63090
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539027424648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.kGoBPdgDPJjn"
+1539027428116	Marionette	INFO	Listening on port 63421
+1539027428571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539027428651	Marionette	DEBUG	[2147483649] Frame script loaded
+1539027428666	Marionette	DEBUG	[2147483649] Frame script registered
+1539027429041	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539027429732	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539027435045	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539027444771	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInf[Parent 10252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6204, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539028643215	Marionette	INFO	Stopped listening on port 64107
+[GPU 8652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared[Parent 4228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Chi1539028643634	Marionette	INFO	Stopped listening on port 64304
+
+###!!! [Child][Message[Parent 13776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1292, Chr[Parent 13776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539028644412	Marionette	INFO	Stopped listening on port 64537
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsol[Child 14568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 152[Parent 7488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14216, Ch1539028645183	Marionette	INFO	Stopped listening on port 64877
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539028709404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.pPcrGz9e8mLz"
+1539028712752	Marionette	INFO	Listening on port 65276
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1539028713420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539028713479	Marionette	DEBUG	[2147483649] Frame script loaded
+1539028713492	Marionette	DEBUG	[2147483649] Frame script registered
+1539028714151	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539028714651	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539028720124	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539028738173	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i3Pv4/y7/l/en_US/eRbeObjbbcL.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i3Pv4/y7/l/en_US/eRbeObjbbcL.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL is currently disabled.
+[Child 13152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1539028802813	Marionette	INFO	Stopped listening on port 65276
+1539028861477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjoys\\AppData\\Local\\Temp\\rust_mozprofile.GfYZliCvdGzj"
+1539028865558	Marionette	INFO	Listening on port 65515
+1539028865883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539028865962	Marionette	DEBUG	[2147483649] Frame script loaded
+1539028865971	Marionette	DEBUG	[2147483649] Frame script registered
+1539028866323	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539028867215	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539028872785	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/groups/cookupsBD/
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539028883097	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 14344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,[Parent 14344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 126[Parent 14344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, mes[Parent 14016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/1539029528151	Marionette	INFO	Stopped listening on port 49448
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.request' - you must adjust the level by setting this preference, not by using the level setter
+1539029252769	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 13108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13788, Chrome_C[Parent 13108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539029528977	Marionette	INFO	Stopped listening on port 49698
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ommon.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1539029466287	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/groups/cookupsBD/
+[Parent 13588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 13588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539029529773	Marionette	INFO	Stopped listening on port 50007
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
